@@ -2,7 +2,7 @@
 
 This script integrate AdHuard Home to Xigmanas server
 
-###How to use
+### How to use
 
 <p>1. Connect to Xigmanas over ssh as root
 
