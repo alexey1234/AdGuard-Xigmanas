@@ -12,9 +12,11 @@ This script integrate AdHuard Home to Xigmanas server
 fetch https://raw.githubusercontent.com/alexey1234/AdGuard-Xigmanas/master/adguard_install.sh
 ```
 
-<p>2. Type command: 
-
-<p>sh adguard_install.sh /path/to/extension/folder
+<p>2. Type command:
+  
+```
+sh adguard_install.sh /path/to/extension/folder
+```
 
 <p>3. Observe AdHuard Home webgui at default 3000 port
 
